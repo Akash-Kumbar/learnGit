@@ -5,7 +5,8 @@ int main()
     std::cout << "Making changes to create conflicts" << std::endl;
    
     std::cout << "Learning git" << std::endl;
-
+    
+    std::cout << "Making changes in the remote repo to cause push conflict" << std::endl;
 
     std::cout << "Another rubbish line" << std::endl;
 
