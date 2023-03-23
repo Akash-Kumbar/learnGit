@@ -6,6 +6,7 @@ int main()
     std::cout << "Learning git" << std::endl;
     std::cout << "Another rubbish line" << std::endl;
     std::cout << "Made changes in the remote repo" << std::endl;
+    std::cout << "Making changes in the local repo" << std::endl;
 
     return 0;
 }
